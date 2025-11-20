@@ -1,0 +1,7 @@
+{
+  "name": "GreenThumb AI",
+  "description": "Your personal gardening assistant. Identify plants from photos and get instant, detailed care instructions and advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
